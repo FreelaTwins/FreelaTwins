@@ -1,7 +1,8 @@
-### Hi there 👋
+### Olá, mundoooo!👋
 
+Uma mente criando o site perfeito é bacana, mas duas mentes é espetacular né verdade?
 
-Here are some ideas to get you started:
+A FreelaTwins foi criada com o objetivo de unir conhecimento e força 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
