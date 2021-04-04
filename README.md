@@ -20,7 +20,7 @@ A nossa especialidade gira em torno da construção de sites estáticos e modern
 
 💻 Agilidade em processamento - Responsividade - Design Moderno e Personalizado - Conexão automática e dinâmica com o whatsapp 💻
 
-<img src="imagens/respon.png">
+<img alt='imagem da tela de um celular e computador de um site já feito pela equipe' src="imagens/respon.png">
 
 Nosso comprometimento maior é disponibilizar a ferramenta mais moderna possível que proporcione o aumento da geração de leads para a sua empresa.🤝
 
