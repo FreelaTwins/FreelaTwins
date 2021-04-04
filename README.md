@@ -1,3 +1,5 @@
+<img alt='imagem inicial com o texto projeto freela twins' src="imagens/ini.png">
+
 ### Olá, mundoooo!👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dudawiltiner)](https://github.com/dudawiltiner)
