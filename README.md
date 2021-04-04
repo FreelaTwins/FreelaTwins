@@ -4,6 +4,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paulawiltiner)](https://github.com/paulawiltiner)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paula-wiltiner-reis-santana-2a056719a/)](https://www.linkedin.com/in/paula-wiltiner-reis-santana-2a056719a/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardawiltiner/)](https://www.linkedin.com/in/eduardawiltiner/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FreelaTwins&repo=github-readme-stats)](https://github.com/FreelaTwins/github-readme-stats)
+Demonstração
 
 Uma mente criando um website é bacana, mas duas mentes é espetacular ,né verdade?😜
 
