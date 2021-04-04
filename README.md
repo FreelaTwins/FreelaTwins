@@ -2,10 +2,10 @@
 
 ### Olá, mundoooo!👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dudawiltiner)](https://github.com/dudawiltiner)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paulawiltiner)](https://github.com/paulawiltiner)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paula-wiltiner-reis-santana-2a056719a/)](https://www.linkedin.com/in/paula-wiltiner-reis-santana-2a056719a/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardawiltiner/)](https://www.linkedin.com/in/eduardawiltiner/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=#F78764&link=https://github.com/dudawiltiner)](https://github.com/dudawiltiner)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=#F78764&link=https://github.com/paulawiltiner)](https://github.com/paulawiltiner)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=#88D7DF&link=https://www.linkedin.com/in/paula-wiltiner-reis-santana-2a056719a/)](https://www.linkedin.com/in/paula-wiltiner-reis-santana-2a056719a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=#88D7DF&link=https://www.linkedin.com/in/eduardawiltiner/)](https://www.linkedin.com/in/eduardawiltiner/)
 
 Uma mente criando um website é bacana, mas duas mentes é espetacular ,né verdade?😜
 
