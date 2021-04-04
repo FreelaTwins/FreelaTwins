@@ -7,7 +7,7 @@
 
 Uma mente criando um website é bacana, mas duas mentes é espetacular ,né verdade?😜
 
-A <h2 color='pink' >FreelaTwins<h2>👩🏻‍💻👩🏻‍💻 foi criada com o objetivo de unir conhecimento e forças para desenvolver as melhores plataformas web para a sua empresa.
+A FreelaTwins👩🏻‍💻👩🏻‍💻 foi criada com o objetivo de unir conhecimento e forças para desenvolver as melhores plataformas web para a sua empresa.
 
 A nossa especialidade gira em torno da construção de sites estáticos e modernos baseada no uso de frameworks avançadas como o Next.js e o Bulma.
 
