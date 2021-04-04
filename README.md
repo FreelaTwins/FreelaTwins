@@ -5,15 +5,24 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paula-wiltiner-reis-santana-2a056719a/)](https://www.linkedin.com/in/paula-wiltiner-reis-santana-2a056719a/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardawiltiner/)](https://www.linkedin.com/in/eduardawiltiner/)
 
-Uma mente criando um website é bacana, mas duas mentes é espetacular ,né verdade?
+Uma mente criando um website é bacana, mas duas mentes é espetacular ,né verdade?😜
 
-A FreelaTwins foi criada com o objetivo de unir conhecimento e forças para desenvolver as melhores plataformas web para a sua empresa.
+A <h2 color='pink' >FreelaTwins<h2>👩🏻‍💻👩🏻‍💻 foi criada com o objetivo de unir conhecimento e forças para desenvolver as melhores plataformas web para a sua empresa.
 
 A nossa especialidade gira em torno da construção de sites estáticos e modernos baseada no uso de frameworks avançadas como o Next.js e o Bulma.
 
+<i>Nossos diferenciais:<i>
+- Prototipagem inicial feita no canvas e extremamente detalhada para a validação do cliente.
+- Utilização do que há de melhor em UX (experiência do usuário);
+- Melhor ranquemento em motores de busca e mais acessibilidade - SEO ;
+- Desenvolvimento em react.js , html, css e javascript;
+- Hospedagem simples e rápida pela plataforma Vercel.
+
+💻 Agilidade em processamento - Responsividade - Design Moderno e Personalizado - Conexão automática e dinâmica com o whatsapp 💻
+
 <img src="imagens/respon.png">
 
-Agilidade em processamento , responsividade
+Nosso comprometimento maior é disponibilizar a ferramenta mais moderna possível que proporcione o aumento da geração de leads para a sua empresa.🤝
 
 
 
