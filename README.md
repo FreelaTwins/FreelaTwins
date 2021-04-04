@@ -11,7 +11,7 @@ A FreelaTwins👩🏻‍💻👩🏻‍💻 foi criada com o objetivo de unir co
 
 A nossa especialidade gira em torno da construção de sites estáticos e modernos baseada no uso de frameworks avançados como o Next.js e o Bulma.
 
-<img alt='logo do next.js' src="imagens/next.png"> <img alt='logo da bulma' src="imagens/bulma.png">
+<img width='80' alt='logo do next.js' src="imagens/next.png"> <img width='80' alt='logo da bulma' src="imagens/bulma.png">
 
 <i>Nossos diferenciais:<i>
 - Prototipagem inicial feita no canvas e extremamente detalhada para a validação do cliente.
