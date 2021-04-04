@@ -28,7 +28,7 @@ A nossa especialidade gira em torno da construção de sites estáticos e modern
 - Desenvolvimento em react.js , html , css e javascript;
 - Hospedagem simples e rápida pela plataforma Vercel.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelatwins&layout=compact)](https://github.com/freelatwins/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreelaTwins&layout=compact)](https://github.com/FreelaTwins/github-readme-stats)
 
 💻 Agilidade em processamento - Responsividade - Design Moderno e Personalizado - Conexão automática e dinâmica com o whatsapp 💻
 
