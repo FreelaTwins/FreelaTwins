@@ -37,7 +37,7 @@ A nossa especialidade gira em torno da construção de sites estáticos e modern
 <img alt='imagem da tela de um celular e computador de um site já feito pela equipe' src="imagens/respon.png">
 
 
-<img width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreelaTwins&hide=html&layout=compact&theme=buefy" />  
+<img width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreelaTwins/HortiFruti&hide=html&layout=compact&theme=buefy" />  
 
 Nosso comprometimento maior é disponibilizar a ferramenta mais moderna possível que proporcione o aumento da geração de leads para a sua empresa.🤝
 
